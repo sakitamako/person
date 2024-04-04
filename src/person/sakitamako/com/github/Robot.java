@@ -14,4 +14,5 @@ public class Robot {
 	public void run() {
 		System.out.println(this.name + "が走る");
 	}
+	
 }
